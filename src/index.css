@@ -176,7 +176,7 @@ body {
 
 .card:hover {
   width:30%;
-  height:50%;
+  height:40%;
 }
 
 .card:hover .cardContent {
